@@ -1,0 +1,8 @@
+//Multiplication
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    cout<<8*9<<endl<<(100+200)*2;
+}
