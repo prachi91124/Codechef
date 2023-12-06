@@ -21,16 +21,4 @@ while(t--)
  return 0;
 }
 =======
-    int A, B, C, D, E;
-    cin>>A;
-    cin>>B;
-    cin>>C;
-    cin>>D;
-    cin>>E;
-    cout<< A << endl;
-    cout<< B << endl;
-    cout<< C << endl;
-    cout<< D << endl;
-    cout<< E << endl;
-}
->>>>>>> 8107fd973b14996fcde9f7addccb5c3d06f8bf61
+   
